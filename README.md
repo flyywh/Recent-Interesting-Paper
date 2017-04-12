@@ -10,7 +10,7 @@
  * DRAW: Deep networks for Recognizing styles of Artists Who illustrate children’s books (Arxiv), Samet Hicsonmez et al. [[PDF]](https://arxiv.org/pdf/1704.03057.pdf)
  * Learning Deep CNN Denoiser Prior for Image Restoration (Arxiv), Kai Zhang et al. [[PDF]](https://arxiv.org/pdf/1704.03264.pdf) 
  * Simultaneous Stereo Video Deblurring and Scene Flow Estimation (Arxiv), Liyuan Pan et al. [[PDF]](https://arxiv.org/pdf/1704.03273.pdf)
- * Simultaneous Stereo Video Deblurring and Scene Flow Estimation (Arxiv), Tae Hyun Kim al. [[PDF]](https://arxiv.org/pdf/1704.03285.pdf)
+ * Online Video Deblurring via Dynamic Temporal Blending Network (Arxiv), Tae Hyun Kim al. [[PDF]](https://arxiv.org/pdf/1704.03285.pdf)
  * Quality Aware Network for Set to Set Recognition (Arxiv), Yu Liu et al. [[PDF]](https://arxiv.org/pdf/1704.03373.pdf)
  * A Computational Approach to Relative Aesthetics (Arxiv), Vijetha Gattupalli et al. [[PDF]](https://arxiv.org/pdf/1704.01248.pdf)
  * On the Relation between Color Image Denoising and Classification (Arxiv), [[PDF]](https://arxiv.org/pdf/1704.01372.pdf)
