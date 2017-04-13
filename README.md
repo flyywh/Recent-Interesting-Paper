@@ -18,6 +18,6 @@
  * Deep Generative Adversarial Compression Artifact Removal (Arxiv), [[PDF]](https://arxiv.org/pdf/1704.02518.pdf)
  #### Why do correlated inputs or correlated responses in hidden neurons contaminate the learning?
  * The effect of correlated input data on the dynamics of learning (NIPS1997), S~ren Halkjrer et al. [[PDF]](https://papers.nips.cc/paper/1254-the-effect-of-correlated-input-data-on-the-dynamics-of-learning.pdf)
- * Artificial Neural Networks - Methodological Advances and Biomedical Applications, Kenji Suzuki et al. [[PDF]](https://papers.nips.cc/paper/1254-the-effect-of-correlated-input-data-on-the-dynamics-of-learning.pdf)
+ * Artificial Neural Networks - Methodological Advances and Biomedical Applications (2011), Kenji Suzuki et al. [[PDF]](https://papers.nips.cc/paper/1254-the-effect-of-correlated-input-data-on-the-dynamics-of-learning.pdf)
  * REDUCING OVERFITTING IN DEEP NETWORKS BY DECORRELATING REPRESENTATIONS (ICLR2016), Michael Cogswell et al. [[PDF]](https://arxiv.org/pdf/1511.06068.pdf)
 
