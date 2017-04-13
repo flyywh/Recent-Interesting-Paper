@@ -1,6 +1,7 @@
 # Recent Interesting Papers
 
 ## April
+#### Arxiv Papers
  * Convolutional Neural Pyramid for Image Processing (Arxiv), Shen et al. [[PDF]](https://arxiv.org/pdf/1704.02071.pdf)
  * How to Make an Image More Memorable? A Deep Style Transfer Approach (Arxiv), Aliaksandr Siarohin et al. [[PDF]](https://arxiv.org/pdf/1704.01745.pdf)
  * A Structured Approach to Predicting Image Enhancement Parameters (Arxiv), Parag S. Chandakkar et al. [[PDF]](https://arxiv.org/pdf/1704.01249.pdf)
@@ -15,4 +16,6 @@
  * A Computational Approach to Relative Aesthetics (Arxiv), Vijetha Gattupalli et al. [[PDF]](https://arxiv.org/pdf/1704.01248.pdf)
  * On the Relation between Color Image Denoising and Classification (Arxiv), [[PDF]](https://arxiv.org/pdf/1704.01372.pdf)
  * Deep Generative Adversarial Compression Artifact Removal (Arxiv), [[PDF]](https://arxiv.org/pdf/1704.02518.pdf)
+ #### Why do correlated inputs or correlated responses in hidden neurons contaminate the learning?
  
+
