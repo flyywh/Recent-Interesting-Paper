@@ -17,5 +17,6 @@
  * On the Relation between Color Image Denoising and Classification (Arxiv), [[PDF]](https://arxiv.org/pdf/1704.01372.pdf)
  * Deep Generative Adversarial Compression Artifact Removal (Arxiv), [[PDF]](https://arxiv.org/pdf/1704.02518.pdf)
  #### Why do correlated inputs or correlated responses in hidden neurons contaminate the learning?
- 
+ * The effect of correlated input data on the dynamics of learning (NIPS1997), [[PDF]](https://papers.nips.cc/paper/1254-the-effect-of-correlated-input-data-on-the-dynamics-of-learning.pdf)
+ * 
 
