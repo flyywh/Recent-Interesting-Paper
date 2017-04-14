@@ -21,3 +21,6 @@
  * Artificial Neural Networks - Methodological Advances and Biomedical Applications (2011), Kenji Suzuki et al. [[PDF]](https://cdn.intechopen.com/pdfs-wm/14882.pdf)
  * REDUCING OVERFITTING IN DEEP NETWORKS BY DECORRELATING REPRESENTATIONS (ICLR2016), Michael Cogswell et al. [[PDF]](https://arxiv.org/pdf/1511.06068.pdf)
 
+ #### Deep Intrinsic Image Decomposition
+ * DARN: a Deep Adversial Residual Network for Intrinsic Image Decomposition (Arxiv2017), Louis Lettry et al. [[PDF]](https://arxiv.org/pdf/1612.07899.pdf)
+ 
