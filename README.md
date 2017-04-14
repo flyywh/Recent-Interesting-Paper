@@ -24,3 +24,4 @@
  #### Deep Intrinsic Image Decomposition
  * DARN: a Deep Adversial Residual Network for Intrinsic Image Decomposition (Arxiv2017), Louis Lettry et al. [[PDF]](https://arxiv.org/pdf/1612.07899.pdf)
  * Revisiting Deep Image Smoothing and Intrinsic Image Decomposition (Arxiv2017), Qingnan Fan et al. [[PDF]](https://arxiv.org/pdf/1701.02965.pdf)
+ * Direct Intrinsics: Learning Albedo-Shading Decomposition by Convolutional Regression (ICCV2015), Takuya Narihira et al. [[PDF]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Narihira_Direct_Intrinsics_Learning_ICCV_2015_paper.pdf) [[Website]](https://github.com/tnarihi/direct-intrinsics)
