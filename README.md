@@ -26,3 +26,4 @@
  * Revisiting Deep Image Smoothing and Intrinsic Image Decomposition (Arxiv2017), Qingnan Fan et al. [[PDF]](https://arxiv.org/pdf/1701.02965.pdf)
  * Direct Intrinsics: Learning Albedo-Shading Decomposition by Convolutional Regression (ICCV2015), Takuya Narihira et al. [[PDF]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Narihira_Direct_Intrinsics_Learning_ICCV_2015_paper.pdf) [[Website]](https://github.com/tnarihi/direct-intrinsics)
   * Learning data-driven reflectance priors for intrinsic image decomposition (ICCV2015), Tinghui Zhou et al. [[PDF]](https://people.eecs.berkeley.edu/~tinghuiz/papers/iccv15_lrp.pdf) [[Website]](https://github.com/tinghuiz/learn-reflectance)
+  * Deep Reflectance Maps (CVPR2016), Konstantinos Rematas et al. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rematas_Deep_Reflectance_Maps_CVPR_2016_paper.pdf)
