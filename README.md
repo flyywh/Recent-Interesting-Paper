@@ -20,7 +20,8 @@
  * The effect of correlated input data on the dynamics of learning (NIPS1997), S~ren Halkjrer et al. [[PDF]](https://papers.nips.cc/paper/1254-the-effect-of-correlated-input-data-on-the-dynamics-of-learning.pdf)
  * Artificial Neural Networks - Methodological Advances and Biomedical Applications (2011), Kenji Suzuki et al. [[PDF]](https://cdn.intechopen.com/pdfs-wm/14882.pdf)
  * REDUCING OVERFITTING IN DEEP NETWORKS BY DECORRELATING REPRESENTATIONS (ICLR2016), Michael Cogswell et al. [[PDF]](https://arxiv.org/pdf/1511.06068.pdf)
-
+ * Quality Aware Network for Set to Set Recognition (CVPR2017), Yu Liu et al. [[PDF]](https://arxiv.org/pdf/1704.03373.pdf) 
+ 
  #### Deep Intrinsic Image Decomposition
  * DARN: a Deep Adversial Residual Network for Intrinsic Image Decomposition (Arxiv2017), Louis Lettry et al. [[PDF]](https://arxiv.org/pdf/1612.07899.pdf)
  * Revisiting Deep Image Smoothing and Intrinsic Image Decomposition (Arxiv2017), Qingnan Fan et al. [[PDF]](https://arxiv.org/pdf/1701.02965.pdf)
