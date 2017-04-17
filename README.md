@@ -16,11 +16,12 @@
  * A Computational Approach to Relative Aesthetics (Arxiv), Vijetha Gattupalli et al. [[PDF]](https://arxiv.org/pdf/1704.01248.pdf)
  * On the Relation between Color Image Denoising and Classification (Arxiv), [[PDF]](https://arxiv.org/pdf/1704.01372.pdf)
  * Deep Generative Adversarial Compression Artifact Removal (Arxiv), [[PDF]](https://arxiv.org/pdf/1704.02518.pdf)
+ * Quality Aware Network for Set to Set Recognition (CVPR2017), Yu Liu et al. [[PDF]](https://arxiv.org/pdf/1704.03373.pdf) 
+ 
  #### Why do correlated inputs or correlated responses in hidden neurons contaminate the learning?
  * The effect of correlated input data on the dynamics of learning (NIPS1997), S~ren Halkjrer et al. [[PDF]](https://papers.nips.cc/paper/1254-the-effect-of-correlated-input-data-on-the-dynamics-of-learning.pdf)
  * Artificial Neural Networks - Methodological Advances and Biomedical Applications (2011), Kenji Suzuki et al. [[PDF]](https://cdn.intechopen.com/pdfs-wm/14882.pdf)
  * REDUCING OVERFITTING IN DEEP NETWORKS BY DECORRELATING REPRESENTATIONS (ICLR2016), Michael Cogswell et al. [[PDF]](https://arxiv.org/pdf/1511.06068.pdf)
- * Quality Aware Network for Set to Set Recognition (CVPR2017), Yu Liu et al. [[PDF]](https://arxiv.org/pdf/1704.03373.pdf) 
  
  #### Deep Intrinsic Image Decomposition
  * DARN: a Deep Adversial Residual Network for Intrinsic Image Decomposition (Arxiv2017), Louis Lettry et al. [[PDF]](https://arxiv.org/pdf/1612.07899.pdf)
