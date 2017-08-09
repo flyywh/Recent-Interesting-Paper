@@ -30,3 +30,7 @@
   * Learning data-driven reflectance priors for intrinsic image decomposition (ICCV2015), Tinghui Zhou et al. [[PDF]](https://people.eecs.berkeley.edu/~tinghuiz/papers/iccv15_lrp.pdf) [[Website]](https://github.com/tinghuiz/learn-reflectance)
   * Deep Reflectance Maps (CVPR2016), Konstantinos Rematas et al. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rematas_Deep_Reflectance_Maps_CVPR_2016_paper.pdf)
   * Unified Depth Prediction and Intrinsic Image Decomposition from a Single Image via Joint Convolutional Neural Fields (ECCV2016), Seungryong Kim et al. [[PDF]](http://diml.yonsei.ac.kr/~srkim/publication/JCNF_ECCV2016.pdf)
+
+## April
+
+### 09 April
