@@ -34,3 +34,11 @@
 ## April
 
 ### 09 April
+   * Image Quality Assessment Techniques Show Improved Training and Evaluation of Autoencoder Generative Adversarial Networks (Arxiv 2017), Michael O. Vertolli, Jim Davies. [[PDF]](https://arxiv.org/pdf/1708.02237.pdf)
+
+### 08 April
+   * MemNet: A Persistent Memory Network for Image Restoration, (Arxiv 2017) Ying Tai, Jian Yang, Xiaoming Liu, Chunyan Xu. [[PDF]](https://arxiv.org/pdf/1708.02209.pdf)
+   * 
+   
+   
+
