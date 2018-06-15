@@ -42,5 +42,6 @@
 ### 16 June
    * A Unified Framework for Generalizable Style Transfer: Style and Content Separation, (Arxiv 2018) Yexun Zhang, Ya Zhang, and Wenbin Cai. [[PDF]](https://arxiv.org/pdf/1806.05173.pdf)
    * Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising, (Arxiv 2018) Zhihao Xia, Ayan Chakrabarti. [[PDF]](https://arxiv.org/pdf/1806.05229.pdf)
-   * From Trailers to Storylines: An Efficient Way to Learn from Movies, (Arxiv 2018) Qingqiu Huang, Yuanjun Xiong, Yu Xiong, Yuqi Zhang, Dahua Lin, [[PDF]](https://arxiv.org/pdf/1806.05341.pdf)
+   * From Trailers to Storylines: An Efficient Way to Learn from Movies, (Arxiv 2018) Qingqiu Huang, Yuanjun Xiong, Yu Xiong, Yuqi Zhang, Dahua Lin. [[PDF]](https://arxiv.org/pdf/1806.05341.pdf)
+   
 
