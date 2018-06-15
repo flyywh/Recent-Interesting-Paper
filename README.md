@@ -1,5 +1,17 @@
 # Recent Interesting Papers
 
+## June 2018
+   
+### 16 June
+   * A Unified Framework for Generalizable Style Transfer: Style and Content Separation, (Arxiv 2018) Yexun Zhang, Ya Zhang, and Wenbin Cai. [[PDF]](https://arxiv.org/pdf/1806.05173.pdf)
+   * Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising, (Arxiv 2018) Zhihao Xia, Ayan Chakrabarti. [[PDF]](https://arxiv.org/pdf/1806.05229.pdf)
+   * From Trailers to Storylines: An Efficient Way to Learn from Movies, (Arxiv 2018) Qingqiu Huang, Yuanjun Xiong, Yu Xiong, Yuqi Zhang, Dahua Lin. [[PDF]](https://arxiv.org/pdf/1806.05341.pdf)
+   * View-Volume Network for Semantic Scene Completion from a Single Depth Image, (Arxiv 2018) Yu-Xiao Guo1, Xin Tong. [[PDF]](https://arxiv.org/pdf/1806.05361.pdf)
+   * Single Image Reflection Separation with Perceptual Losses, (Arxiv 2018) Xuaner Zhang, Ren Ng. [[PDF]](https://arxiv.org/pdf/1806.05376.pdf)
+   * Learning Human Optical Flow, (Arxiv 2018) Anurag Ranjan, Javier Romero, Michael J. Black. [[PDF]](https://arxiv.org/pdf/1806.05666.pdf)
+   
+
+
 ## April
 #### Arxiv Papers
  * Convolutional Neural Pyramid for Image Processing (Arxiv), Shen et al. [[PDF]](https://arxiv.org/pdf/1704.02071.pdf)
@@ -39,11 +51,4 @@
 ### 08 April
    * MemNet: A Persistent Memory Network for Image Restoration, (Arxiv 2017) Ying Tai, Jian Yang, Xiaoming Liu, Chunyan Xu. [[PDF]](https://arxiv.org/pdf/1708.02209.pdf)
    
-### 16 June
-   * A Unified Framework for Generalizable Style Transfer: Style and Content Separation, (Arxiv 2018) Yexun Zhang, Ya Zhang, and Wenbin Cai. [[PDF]](https://arxiv.org/pdf/1806.05173.pdf)
-   * Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising, (Arxiv 2018) Zhihao Xia, Ayan Chakrabarti. [[PDF]](https://arxiv.org/pdf/1806.05229.pdf)
-   * From Trailers to Storylines: An Efficient Way to Learn from Movies, (Arxiv 2018) Qingqiu Huang, Yuanjun Xiong, Yu Xiong, Yuqi Zhang, Dahua Lin. [[PDF]](https://arxiv.org/pdf/1806.05341.pdf)
-   * View-Volume Network for Semantic Scene Completion from a Single Depth Image, (Arxiv 2018) Yu-Xiao Guo1, Xin Tong. [[PDF]](https://arxiv.org/pdf/1806.05361.pdf)
-   * Single Image Reflection Separation with Perceptual Losses, (Arxiv 2018) Xuaner Zhang, Ren Ng. [[PDF]](https://arxiv.org/pdf/1806.05376.pdf)
-   * Learning Human Optical Flow, (Arxiv 2018) Anurag Ranjan, Javier Romero, Michael J. Black. [[PDF]](https://arxiv.org/pdf/1806.05666.pdf)
 
