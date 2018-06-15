@@ -46,5 +46,4 @@
    * View-Volume Network for Semantic Scene Completion from a Single Depth Image, (Arxiv 2018) Yu-Xiao Guo1, Xin Tong. [[PDF]](https://arxiv.org/pdf/1806.05361.pdf)
    * Single Image Reflection Separation with Perceptual Losses, (Arxiv 2018) Xuaner Zhang, Ren Ng. [[PDF]](https://arxiv.org/pdf/1806.05376.pdf)
    * Learning Human Optical Flow, (Arxiv 2018) Anurag Ranjan, Javier Romero, Michael J. Black. [[PDF]](https://arxiv.org/pdf/1806.05666.pdf)
-   * 
 
