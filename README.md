@@ -38,7 +38,8 @@
 
 ### 08 April
    * MemNet: A Persistent Memory Network for Image Restoration, (Arxiv 2017) Ying Tai, Jian Yang, Xiaoming Liu, Chunyan Xu. [[PDF]](https://arxiv.org/pdf/1708.02209.pdf)
-   * 
    
+### 16 June
+   * A Unified Framework for Generalizable Style Transfer: Style and Content Separation, (Arxiv 2018) Yexun Zhang, Ya Zhang, and Wenbin Cai. [[PDF]](https://arxiv.org/pdf/1806.05173.pdf)
    
 
