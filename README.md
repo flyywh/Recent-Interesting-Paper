@@ -1,7 +1,13 @@
 # Recent Interesting Papers
 
 ## June 2018
+
+### 24 June
+   * Few-Shot Segmentation Propagation with Guided Networks, (Arxiv 2018) Kate Rakelly, Evan Shelhamer, Trevor Darrell, Alexei Efros, Sergey Levine. [[PDF]](https://arxiv.org/pdf/1806.07373.pdf)
+   * Unsupervised Deep Multi-focus Image Fusion, (Arxiv 2018) Xiang Yan, Syed Zulqarnain Gilani, Hanlin Qin, and Ajmal Mian.[[PDF]](https://arxiv.org/pdf/1806.07272.pdf)
+   * Deep Neural Network Based Sparse Measurement Matrix for Image Compressed Sensing, (Arxiv 2018) Wenxue Cui1, Feng Jiang1, Xinwei Gao1, Wen Tao1, Debin Zhao. [[PDF]] (https://arxiv.org/pdf/1806.07026.pdf)
    
+
 ### 16 June
    * A Unified Framework for Generalizable Style Transfer: Style and Content Separation, (Arxiv 2018) Yexun Zhang, Ya Zhang, and Wenbin Cai. [[PDF]](https://arxiv.org/pdf/1806.05173.pdf)
    * Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising, (Arxiv 2018) Zhihao Xia, Ayan Chakrabarti. [[PDF]](https://arxiv.org/pdf/1806.05229.pdf)
