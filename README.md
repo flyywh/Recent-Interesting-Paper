@@ -2,6 +2,11 @@
 
 ## June 2018
 
+### 25 June
+   * Virtual Codec Supervised Re-Sampling Network for Image Compression, (Arxiv 2018) Lijun Zhao, Huihui Bai, Anhong Wang, and Yao Zhao. [[PDF]](https://arxiv.org/pdf/1806.08514.pdf)
+   * Learning a High Fidelity Pose Invariant Model for High-resolution Face Frontalization, (Arxiv 2018) Jie Cao, Yibo Hu, Hongwen Zhang, Ran He, Zhenan Sun. [[PDF]](https://arxiv.org/pdf/1806.08472.pdf)
+   * Video Inpainting by Jointly Learning Temporal Structure and Spatial Details, (Arxiv 2018) Chuan Wang, Haibin Huang, Xiaoguang Han, Jue Wang. [[PDF]](https://arxiv.org/pdf/1806.08482.pdf)
+
 ### 24 June
    * Few-Shot Segmentation Propagation with Guided Networks, (Arxiv 2018) Kate Rakelly, Evan Shelhamer, Trevor Darrell, Alexei Efros, Sergey Levine. [[PDF]](https://arxiv.org/pdf/1806.07373.pdf)
    * Unsupervised Deep Multi-focus Image Fusion, (Arxiv 2018) Xiang Yan, Syed Zulqarnain Gilani, Hanlin Qin, and Ajmal Mian.[[PDF]](https://arxiv.org/pdf/1806.07272.pdf)
