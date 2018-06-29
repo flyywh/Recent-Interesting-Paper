@@ -4,6 +4,10 @@
 
 ### 29 June
    * Accurate and Efficient Video De-Fencing Using Convolutional Neural Networks and Temporal Information, (Arxiv 2018) Chen Du, Byeongkeun Kang, Zheng Xu, Ji Dai and Truong Nguyen. [[PDF]](https://arxiv.org/pdf/1806.10781.pdf)
+   * Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination, (Arxiv 2018) Junjun Jiang, Yi Yu, Jinhui Hu, Suhua Tang and Jiayi Ma. [[PDF]](https://arxiv.org/pdf/1806.10726.pdf)
+   * Multimodal Image Denoising Based on Coupled Dictionary Learning, (Arxiv 2018) Pingfan Song, Miguel R. D. Rodrigues. [[PDF]](https://arxiv.org/pdf/1806.10678.pdf)
+   * Dynamic texture analysis with diffusion in networks, (Arxiv 2018) Lucas C. Ribas1, Wesley N. Gon¸calves, Odemir M. Bruno. [[PDF]](https://arxiv.org/pdf/1806.10681.pdf)
+   * Customizing an Adversarial Example Generator with Class-Conditional GANs, (Arxiv 2018) Shih-hong Tsai. [[PDF]](https://arxiv.org/pdf/1806.10496.pdf)
 
 
 ### 25 June
