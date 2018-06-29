@@ -8,6 +8,10 @@
    * Multimodal Image Denoising Based on Coupled Dictionary Learning, (Arxiv 2018) Pingfan Song, Miguel R. D. Rodrigues. [[PDF]](https://arxiv.org/pdf/1806.10678.pdf)
    * Dynamic texture analysis with diffusion in networks, (Arxiv 2018) Lucas C. Ribas1, Wesley N. Gon¸calves, Odemir M. Bruno. [[PDF]](https://arxiv.org/pdf/1806.10681.pdf)
    * Customizing an Adversarial Example Generator with Class-Conditional GANs, (Arxiv 2018) Shih-hong Tsai. [[PDF]](https://arxiv.org/pdf/1806.10496.pdf)
+   * Syn2Real: A New Benchmark for Synthetic-to-Real Visual Domain Adaptation, (Arxiv 2018) Xingchao Peng, Ben Usman, Kuniaki Saito, Neela Kaushik1, Judy Hoffman, Kate Saenko. [[PDF]](https://arxiv.org/pdf/1806.09755.pdf)
+   * Learning Single-Image Depth from Videos using Quality Assessment Networks, (Arxiv 2018) Weifeng Chen, Jia Deng. [[PDF]](https://arxiv.org/pdf/1806.09573.pdf)
+   * IR2VI: Enhanced Night Environmental Perception by Unsupervised Thermal Image Translation, (Arxiv 2018) Shuo Liu, Vijay John, Erik Blasch, Zheng Liu, and Ying Huang. [[PDF]](https://arxiv.org/pdf/1806.09565.pdf)
+   * Fusion of Complex Networks and Randomized Neural Networks for Texture Analysis, (Arxiv 2018) Lucas C. Ribas, Jarbas J. M. S´a Junior, Leonardo F. S. Scabini, Odemir M. Bruno. [[PDF]](https://arxiv.org/pdf/1806.09170.pdf)
 
 
 ### 25 June
