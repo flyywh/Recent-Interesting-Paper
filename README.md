@@ -4,8 +4,11 @@
 
 ### 4 July
    * Uncorrelated Feature Encoding for Faster Image Style Transfer, (Arxiv 2018) Minseong Kim, Jongju Shin, Myung-Cheol Roh, Hyun-Chul Choi. [[PDF]](https://arxiv.org/pdf/1807.01493.pdf)
-   
-
+   * Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding, (Arxiv 2018) Anh-Duc Nguyen, Woojae Kim, Jongyoo Kim, and Sanghoon Lee. [[PDF]](https://arxiv.org/pdf/1807.01462.pdf)
+   * Unbiased Decoder Learning for Fast Image Style Transfer, (Arxiv 2018) Hyun-Chul Choi and Minseong Kim. [[PDF]](https://arxiv.org/ftp/arxiv/papers/1807/1807.01424.pdf)
+   * ReCoNet: Real-time Coherent Video Style Transfer Network, (Arxiv 2018) Chang Gao, Derun Gu, Fangjun Zhang, Yizhou Yu. [[PDF]](https://arxiv.org/pdf/1807.01197.pdf)
+   * SymmNet: A Symmetric Convolutional Neural Network for Occlusion Detection, (Arxiv 2018) Ang Li, Zejian Yuan. [[PDF]](https://arxiv.org/pdf/1807.00959.pdf)
+   * Photorealistic Video Style Transfer, (Arxiv 2018) Michael Honke, Rahul Iyer and Dishant Mittal. [[PDF]](https://arxiv.org/pdf/1807.00273.pdf)
 
 ## June 2018
 
