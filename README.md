@@ -1,5 +1,12 @@
 # Recent Interesting Papers
 
+## July 2018
+
+### 4 July
+   * Uncorrelated Feature Encoding for Faster Image Style Transfer, (Arxiv 2018) Minseong Kim, Jongju Shin, Myung-Cheol Roh, Hyun-Chul Choi. [[PDF]](https://arxiv.org/pdf/1807.01493.pdf)
+   
+
+
 ## June 2018
 
 ### 29 June
