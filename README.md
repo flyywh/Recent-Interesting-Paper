@@ -2,6 +2,10 @@
 
 ## July 2018
 
+### 6 July
+   * PortraitGAN for Flexible Portrait Manipulation, (Arxiv 2018) Jiali Duan, Xiaoyuan Guo, Yuhang Song, Chao Yang, C.C-Jay Kuo. [[PDF]](https://arxiv.org/pdf/1807.01826.pdf)
+   * Transfer Learning From Synthetic to Real Images Using Variational Autoencoders for Precise Position Detection, (Arxiv 2018) Tadanobu Inoue, Subhajit Chaudhury, Giovanni De Magistris1 and Sakyasingha Dasgupta. [[PDF]](https://arxiv.org/pdf/1807.01990.pdf)
+   
 ### 4 July
    * Uncorrelated Feature Encoding for Faster Image Style Transfer, (Arxiv 2018) Minseong Kim, Jongju Shin, Myung-Cheol Roh, Hyun-Chul Choi. [[PDF]](https://arxiv.org/pdf/1807.01493.pdf)
    * Video Frame Interpolation by Plug-and-Play Deep Locally Linear Embedding, (Arxiv 2018) Anh-Duc Nguyen, Woojae Kim, Jongyoo Kim, and Sanghoon Lee. [[PDF]](https://arxiv.org/pdf/1807.01462.pdf)
