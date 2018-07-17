@@ -5,6 +5,9 @@
 ### 17 July
    * Learning a Single Tucker Decomposition Network for Lossy Image Compression with Multiple Bits-Per-Pixel Rates, (Arxiv 2018) Jianrui Cai, Zisheng Cao, and Lei Zhang. [[PDF]](https://arxiv.org/pdf/1807.03470.pdf)
    * Deep Underwater Image Enhancement, (Arxiv 2018), Saeed Anwar, Chongyi Li, Fatih Porikli. [[PDF]](https://arxiv.org/pdf/1807.03528.pdf)
+   * Computationally Efficient Approaches for Image Style Transfer, (Arxiv 2018), Ram Krishna Pandey, Samarjit Karmakar, and A G Ramakrishnan. [[PDF]](https://arxiv.org/pdf/1807.05927.pdf)
+   * Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining, (Arxiv 2018), Xia Li, Jianlong Wu, Zhouchen Lin, Hong Liu, and Hongbin Zha. [[PDF]](https://arxiv.org/pdf/1807.05698.pdf)
+   * Toward Convolutional Blind Denoising of Real Photographs, (Arxiv 2018), Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang. [[PDF]](https://arxiv.org/pdf/1807.04686.pdf)
    * 
 
 ### 6 July
