@@ -8,7 +8,10 @@
    * Computationally Efficient Approaches for Image Style Transfer, (Arxiv 2018), Ram Krishna Pandey, Samarjit Karmakar, and A G Ramakrishnan. [[PDF]](https://arxiv.org/pdf/1807.05927.pdf)
    * Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining, (Arxiv 2018), Xia Li, Jianlong Wu, Zhouchen Lin, Hong Liu, and Hongbin Zha. [[PDF]](https://arxiv.org/pdf/1807.05698.pdf)
    * Toward Convolutional Blind Denoising of Real Photographs, (Arxiv 2018), Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang. [[PDF]](https://arxiv.org/pdf/1807.04686.pdf)
-   * 
+   * Adding Attentiveness to the Neurons in Recurrent Neural Networks, (Arxiv 2018), Pengfei Zhang, Jianru Xue, Cuiling Lan, Wenjun Zeng, Zhanning Gao, Nanning Zheng. [[PDF]](https://arxiv.org/pdf/1807.04445.pdf)
+   * Subsampled Turbulence Removal Network, (Arxiv 2018), Wai Ho Chak, Chun Pong Lau, Lok Ming Lui. [[PDF]](https://arxiv.org/pdf/1807.04418.pdf)
+   * A Trilateral Weighted Sparse Coding Scheme for Real-World Image Denoising, (Arxiv 2018), Jun Xu, Lei Zhang, David Zhang. [[PDF]](https://arxiv.org/pdf/1807.04364.pdf)
+   * A Reflectance Based Method For Shadow Detection and Removal, (Arxiv 2018), Sri Kalyan Yarlagadda, Fengqing Zhu. [[PDF]](https://arxiv.org/pdf/1807.04352.pdf)
 
 ### 6 July
    * PortraitGAN for Flexible Portrait Manipulation, (Arxiv 2018) Jiali Duan, Xiaoyuan Guo, Yuhang Song, Chao Yang, C.C-Jay Kuo. [[PDF]](https://arxiv.org/pdf/1807.01826.pdf)
