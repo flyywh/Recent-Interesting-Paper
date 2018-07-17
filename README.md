@@ -2,6 +2,11 @@
 
 ## July 2018
 
+### 17 July
+   * Learning a Single Tucker Decomposition Network for Lossy Image Compression with Multiple Bits-Per-Pixel Rates, (Arxiv 2018) Jianrui Cai, Zisheng Cao, and Lei Zhang. [[PDF]](https://arxiv.org/pdf/1807.03470.pdf)
+   * Deep Underwater Image Enhancement, (Arxiv 2018), Saeed Anwar, Chongyi Li, Fatih Porikli. [[PDF]](https://arxiv.org/pdf/1807.03528.pdf)
+   * 
+
 ### 6 July
    * PortraitGAN for Flexible Portrait Manipulation, (Arxiv 2018) Jiali Duan, Xiaoyuan Guo, Yuhang Song, Chao Yang, C.C-Jay Kuo. [[PDF]](https://arxiv.org/pdf/1807.01826.pdf)
    * Transfer Learning From Synthetic to Real Images Using Variational Autoencoders for Precise Position Detection, (Arxiv 2018) Tadanobu Inoue, Subhajit Chaudhury, Giovanni De Magistris1 and Sakyasingha Dasgupta. [[PDF]](https://arxiv.org/pdf/1807.01990.pdf)
