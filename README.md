@@ -3,6 +3,7 @@
 ## July 2018
 
 ### 22 July
+   * Computed Tomography Image Enhancement using 3D Convolutional Neural Network, (Arxiv 2018) Meng Li, Shiwen Shen, Wen Gao, William Hsu, and Jason Cong. [[PDF]](https://arxiv.org/pdf/1807.06821.pdf)
    * Learning Hybrid Sparsity Prior for Image Restoration: Where Deep Learning Meets Sparse Coding, (Arxiv 2018) Weisheng Dong, Zhangxi Yan, Xin Li, and Guangming Shi. [[PDF]](https://arxiv.org/pdf/1807.06920.pdf)
    * Deep Exemplar-based Colorization, (Arxiv 2018) Mingming He, Dongdong Chen, Jing Liao, Pedro V. Sander, and Lu Yuan. [[PDF]](https://arxiv.org/pdf/1807.06587.pdf)
    
