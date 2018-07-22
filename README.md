@@ -2,6 +2,10 @@
 
 ## July 2018
 
+### 22 July
+   * Learning Hybrid Sparsity Prior for Image Restoration: Where Deep Learning Meets Sparse Coding, (Arxiv 2018) Weisheng Dong, Zhangxi Yan, Xin Li, and Guangming Shi. [[PDF]](https://arxiv.org/pdf/1807.06920.pdf)
+   * Deep Exemplar-based Colorization, (Arxiv 2018) Mingming He, Dongdong Chen, Jing Liao, Pedro V. Sander, and Lu Yuan. [[PDF]](https://arxiv.org/pdf/1807.06587.pdf)
+   
 ### 17 July
    * Learning a Single Tucker Decomposition Network for Lossy Image Compression with Multiple Bits-Per-Pixel Rates, (Arxiv 2018) Jianrui Cai, Zisheng Cao, and Lei Zhang. [[PDF]](https://arxiv.org/pdf/1807.03470.pdf)
    * Deep Underwater Image Enhancement, (Arxiv 2018), Saeed Anwar, Chongyi Li, Fatih Porikli. [[PDF]](https://arxiv.org/pdf/1807.03528.pdf)
