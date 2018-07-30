@@ -2,6 +2,14 @@
 
 ## July 2018
 
+### 30 July
+   * A Style-Aware Content Loss for Real-time HD Style Transfer, (Arxiv 2018) Artsiom Sanakoyeu, Dmytro Kotovenko, Sabine Lang, and Bj¨orn Ommer. [[PDF]](https://arxiv.org/pdf/1807.10201.pdf)
+   * Instance Segmentation by Deep Coloring, (Arxiv 2018) Victor Kulikov, Victor Yurchenko, and Victor Lempitsky. [[PDF]](https://arxiv.org/pdf/1807.10007.pdf)
+   * Superpixel Sampling Networks,  (Arxiv 2018) Varun Jampani, Deqing Sun, Ming-Yu Liu, Ming-Hsuan Yang, Jan Kautz. [[PDF]](https://arxiv.org/pdf/1807.10174.pdf)
+   * How good is my GAN? (Arxiv 2018) Konstantin Shmelkov, Cordelia Schmid, and Karteek Alahari. [[PDF]](https://arxiv.org/pdf/1807.09499.pdf)
+   * End-to-End Incremental Learning, (Arxiv 2018) Francisco M. Castro, Manuel J. Mar´ın-Jimenez, Nicolas Guil, Cordelia Schmid, and Karteek Alahari. [[PDF]](https://arxiv.org/pdf/1807.09536.pdf)
+   * Flow-Grounded Spatial-Temporal Video Prediction from Still Images, (Arxiv 2018) Yijun Li, Chen Fang, Jimei Yang, Zhaowen Wang, Xin Lu, Ming-Hsuan Yang. [[PDF]](https://arxiv.org/pdf/1807.09755.pdf)
+
 ### 22 July
    * An Attention-Based Approach for Single Image Super Resolution, (Arxiv 2018) Yuan Liu, Yuancheng Wang, Nan Li,Xu Cheng, Yifeng Zhang, Yongming Huang, Guojun Lu. [[PDF]](https://arxiv.org/pdf/1807.06779.pdf)
    * Computed Tomography Image Enhancement using 3D Convolutional Neural Network, (Arxiv 2018) Meng Li, Shiwen Shen, Wen Gao, William Hsu, and Jason Cong. [[PDF]](https://arxiv.org/pdf/1807.06821.pdf)
